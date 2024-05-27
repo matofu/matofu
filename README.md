@@ -7,3 +7,6 @@ Here's what I'm working on:
  - Studying for my final exams.
 
 Currently, I don't really do that much stuff on Github, but I will most likely start soon.
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matofu)](https://github.com/anuraghazra/github-readme-stats)
