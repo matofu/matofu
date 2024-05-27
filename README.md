@@ -9,4 +9,4 @@ Here's what I'm working on:
 Currently, I don't really do that much stuff on Github, but I will most likely start soon.
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matofura&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matofu&show_icons=true&theme=dark)
