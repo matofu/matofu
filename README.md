@@ -8,4 +8,4 @@ Here's what I'm working on:
 Currently, I don't really do that much stuff on Github, but I will most likely start soon.
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tmtfu&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tomatophu&show_icons=true&theme=transparent)
